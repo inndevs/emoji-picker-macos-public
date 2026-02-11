@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://inndevs.com/img/emoji-picker.svg" width="140" height="140" alt="Emoji Picker icon" />
+  <img src="assets/emoji-picker.png" width="140" height="140" alt="Emoji Picker icon" />
 
   # Emoji Picker for macOS
 
@@ -40,7 +40,7 @@ Open an issue and include:
 
 Use **Discussions** for ideas so others can upvote and add context.
 
-👉 New feature request: [Start Discussion](https://github.com/inndevs/emoji-picker-macos-public/discussions/new?category=ideas)
+👉 Feature requests and ideas: [Discussions](https://github.com/inndevs/emoji-picker-macos-public/discussions)
 
 ## Pro Features
 
