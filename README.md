@@ -5,11 +5,9 @@
 
   **A fast, keyboard-first emoji picker for macOS.**
   
-  _Type `:`. Pick fast. Insert anywhere._
-  
-  A liberating experience for anyone tired of emoji hunting.
+  _Type `;`. Pick fast. Insert anywhere._
 
-  [Download Free](https://github.com/inndevs/emoji-picker-macos-public/releases/latest) • [Buy Pro](https://inndevs.com/emoji-picker-macos/) • [Website](https://inndevs.com/emoji-picker-macos/)
+  [Download Free](https://inndevs.com/downloads/emoji-picker-macos-latest.zip) • [Buy Pro](https://inndevs.com/emoji-picker-macos/#pricing) • [Website](https://inndevs.com/emoji-picker-macos/)
 </div>
 
 ---
@@ -42,19 +40,31 @@ Use **Discussions** for ideas so others can upvote and add context.
 
 👉 Feature requests and ideas: [Discussions](https://github.com/inndevs/emoji-picker-macos-public/discussions)
 
+## What You Get Free
+
+- Inline Quick Find with `;query` and instant open with `;;`
+- Full keyboard navigation and the floating Emoji Library
+- Emoji, skin-tone variants, glyphs, and symbols
+- Pins with custom ordering and search aliases
+- Custom shortcodes and snippets
+- Browse and search the complete Emoticons and Mixtures packs
+
+Emoji Picker requires macOS 13 or newer and supports both Apple silicon and Intel Macs.
+
 ## Pro Features
 
 Current Pro includes:
 
-- Pins and custom collections
-- Custom shortcodes and snippets
-- Import custom emoji packs (Slack/Discord style)
-- Emoticon support
-- Expanded statistics (top 100, trends, ranges)
+- Copy and insert Emoticons and Mixtures
+- Reorder and hide entries in those packs
+- Target a specific tab with Quick Open
+- Full statistics with top 100, trends, and time ranges
 
 ## Links
 
+- Download: https://inndevs.com/downloads/emoji-picker-macos-latest.zip
 - Product page: https://inndevs.com/emoji-picker-macos/
+- Privacy: https://inndevs.com/emoji-picker-macos/privacy/
 - Company: https://inndevs.com/
 - Public discussions: https://github.com/inndevs/emoji-picker-macos-public/discussions
 
