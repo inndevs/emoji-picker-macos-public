@@ -1,8 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: Feature request / idea
-    url: https://github.com/inndevs/emoji-picker-macos-public/discussions
+  - name: General & Feature Requests
+    url: https://github.com/inndevs/emoji-picker-macos-public/discussions/new?category=general-feature-requests
     about: Please use Discussions for feature requests so the community can vote and comment.
-  - name: Questions and support
-    url: https://github.com/inndevs/emoji-picker-macos-public/discussions/new?category=q-a
-    about: Ask usage questions in Discussions.

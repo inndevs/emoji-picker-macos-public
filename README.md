@@ -38,7 +38,7 @@ Open an issue and include:
 
 Use **Discussions** for ideas so others can upvote and add context.
 
-👉 Feature requests and ideas: [Discussions](https://github.com/inndevs/emoji-picker-macos-public/discussions)
+👉 Feature requests and ideas: [General & Feature Requests](https://github.com/inndevs/emoji-picker-macos-public/discussions/new?category=general-feature-requests)
 
 ## What You Get Free
 
