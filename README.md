@@ -7,38 +7,27 @@
   
   _Type `;`. Pick fast. Insert anywhere._
 
-  [Download Free](https://inndevs.com/downloads/emoji-picker-macos-latest.zip) • [Buy Pro](https://inndevs.com/emoji-picker-macos/#pricing) • [Website](https://inndevs.com/emoji-picker-macos/)
+  [Download Free](https://inndevs.com/downloads/emoji-picker-macos-latest.zip) • [Buy Pro](https://inndevs.com/emoji-picker-macos/#pricing) • [Support](https://inndevs.com/emoji-picker-macos/support/)
 </div>
 
 ---
 
-## What Is This Repository?
+> [!IMPORTANT]
+> **Support has moved to [inndevs.com](https://inndevs.com/emoji-picker-macos/support/).**
+> This repository is a read-only archive. GitHub issues and discussions are no longer monitored.
 
-This is the **public home** for Emoji Picker on macOS:
+## Support, Issues And Feature Requests
 
-- `🐞` Bug reports
-- `💡` Feature requests
-- `🗺️` Product discussions and roadmap feedback
+The first-party support board is the single place to:
 
-The main app development repository stays private. This repo exists so everyone can report issues and help shape what ships next.
+- Ask for support
+- Report an issue
+- Request a feature
+- Comment on existing discussions
 
-## Report A Bug
+[Open Emoji Picker Support](https://inndevs.com/emoji-picker-macos/support/)
 
-Open an issue and include:
-
-1. macOS version
-2. Emoji Picker version
-3. Steps to reproduce
-4. Expected vs actual behavior
-5. Screenshot or short screen recording (if possible)
-
-👉 Create bug report: [New Issue](https://github.com/inndevs/emoji-picker-macos-public/issues/new/choose)
-
-## Request A Feature
-
-Use **Discussions** for ideas so others can upvote and add context.
-
-👉 Feature requests and ideas: [General & Feature Requests](https://github.com/inndevs/emoji-picker-macos-public/discussions/new?category=general-feature-requests)
+No GitHub account is required. Existing tracker content remains available here for historical reference. [Discussion #1](https://github.com/inndevs/emoji-picker-macos-public/discussions/1) has been copied to its [migrated topic on the support board](https://inndevs.com/emoji-picker-macos/support/?topic=github-discussion-1).
 
 ## What You Get Free
 
@@ -64,9 +53,9 @@ Current Pro includes:
 
 - Download: https://inndevs.com/downloads/emoji-picker-macos-latest.zip
 - Product page: https://inndevs.com/emoji-picker-macos/
+- Support: https://inndevs.com/emoji-picker-macos/support/
 - Privacy: https://inndevs.com/emoji-picker-macos/privacy/
 - Company: https://inndevs.com/
-- Public discussions: https://github.com/inndevs/emoji-picker-macos-public/discussions
 
 ---
 
